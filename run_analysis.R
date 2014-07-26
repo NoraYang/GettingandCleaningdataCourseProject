@@ -1,5 +1,6 @@
 setwd("~/datasciencecoursera/Gettingandcleaningdata/Course Project/UCI HAR Dataset/test")
-
+# make sure to change the working directory to the local desktop location of the downloaded upzipped files.
+ 
 ##  Step1: 
 # read in test data#
 test<-read.table("X_test.txt")
