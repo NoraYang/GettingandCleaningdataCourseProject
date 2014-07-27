@@ -306,3 +306,7 @@ calculated three-dimenstional magnitude
 
       mean of frequency domain signal with body gyroscope to derive Jerk signal in Euclidean 
 norm calculated three-dimenstional magnitude
+
+****** The units for the features measurements are Hz, there are in total 66 features averages in 
+the tidy dataset along with 3 id variables as subjectnum, activitynum and activityname. The final 
+tidy data set contains 180 observations (30 subjects with 6 activities each) of 68 columns.
